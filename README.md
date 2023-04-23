@@ -1,1 +1,1 @@
-# Automatic-Birthday-Wisher
+# Automatic-Email-Sender
